@@ -1,0 +1,46 @@
+1006|1006|s|hi
+1006|1006|r|hi
+1010|1010|s|aes
+1010|1010|r|aes
+1010|1011|s|hi
+1010|1011|r|hi
+1012|1012|s|adf
+1012|1012|r|adf
+1013|1013|s|asdf
+1013|1013|r|asdf
+1002|1001|r|hi
+1001|1002|s|hello
+2344|2343|s|hello there
+2344|2343|r|hello there
+2343|2343|s|hi
+2343|2343|r|hi
+2343|2344|s|hiii
+2343|2344|r|hiii
+2346|2345|s|hiee
+2346|2345|r|hiee
+2341|2340|s|hiie
+2341|2340|r|hiie
+2341 - 2340 - send -hi
+2341 - 2340 - receive - hi
+2340 - 2341 - send -hello
+2340 - 2341 - receive - hello
+2340 - 2341 - send -hello
+2340 - 2341 - receive - hello
+2340 - 2341 - send -hii
+2340 - 2341 - receive - hii
+2340 - 2341 - send -hi
+2340 - 2341 - receive - hi
+2341 - 2340 - send -hello
+2341 - 2340 - receive - hello
+2342 - 2341 - send -hello
+2342 - 2341 - receive - hello
+2342 - 2341 - send -hello
+2342 - 2341 - receive - hello
+2341 - 2340 - send -hi
+2341 - 2340 - receive - hi
+2341 - 2342 - send -hi
+2341 - 2342 - receive - hi
+2345 - 2343 - send -hi
+2345 - 2343 - receive - hi
+2341 - 2340 - send -hi
+2341 - 2340 - receive - hi
